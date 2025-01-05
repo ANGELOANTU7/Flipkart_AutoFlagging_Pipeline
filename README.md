@@ -1,4 +1,5 @@
 # S3 Image Management Lambda Functions
+![Banner](autoflagging.jpg)  
 
 This repository contains AWS Lambda functions for managing and retrieving images stored in an S3 bucket. The system is designed to handle both flagged and unflagged images, with support for batch operations and annotated frames.
 
